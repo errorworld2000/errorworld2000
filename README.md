@@ -21,16 +21,16 @@
 
 ## About me 📝
 
-👋 <i>Hey there! I'm .</i> 🎮💻</br>
-🌱 <i></i> 🃏🎴</br>
-🔍 <i></i> 📦</br>
-🚀 <i></i> 🤖🕹️
+👋 <i>Hey there! I'm a rookie.</i> 🎮💻</br>
+🔍 <i>Currently diving into C++ and Python. </i> 📦</br>
+🚀 <i>Fascinated by AI, gaming, and physics. </i> 🤖🕹️</br>
+🌱 <i>"Progress is about persistence, not perfection." </i> 🃏🎴</br>
 
 ## Languages and Tools 🛠️
 
 <div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorworld2000&layout=compact&hide=javascript,html,css&exclude_repo=repo1,repo2&size_weight=0.5&count_weight=0.5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorworld2000&layout=compact&hide=javascript,html,css&exclude_repo=repo1,repo2&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
