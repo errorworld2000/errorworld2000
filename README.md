@@ -1,39 +1,38 @@
 <!-- background image -->
-<img align="right" src="Frieren/Frieren_watch.png" width='249px' alt="芙莉莲">
+<img align="right" src="Frieren/Frieren_watch.png" width='249px' alt="PlaceHolder">
 
 <!-- Section : Introduction -->
-## Hi <img src="emoji/giphy.gif" width="25px">
-<div align=center>
+## Hi 🐳
+<img src="emoji/giphy.gif" width="25px">
 
-### Hi there 
+<!-- https://readme-typing-svg.demolab.com/demo/  -->
+[![Stay Hungry, Stay Foolish](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&random=false&width=435&height=21&lines=Stay+Hungry%2C+Stay+Foolish)](https://git.io/typing-svg)
+
+<div align=center>
+  
+![lastcommit](https://img.shields.io/github/last-commit/errorworld2000/errorworld2000?logo=GitHub&style=flat-square)
+![stars](https://img.shields.io/github/stars/errorworld2000?logo=Github&style=flat-square)
+![followers](https://img.shields.io/github/followers/errorworld2000?logo=Github&style=flat-square)
+![Static Badge](https://img.shields.io/badge/i_am-atomic-FF1744)
+![VIEWS](https://komarev.com/ghpvc/?username=errorworld2000&abbreviated=true&label=profile+view&color=dc143c&base=1)
 
 </div>
 
-<!--
-**errorworld2000/errorworld2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+👋 <i>Hey there! I'm .</i> 🎮💻</br>
+🌱 <i></i> 🃏🎴</br>
+🔍 <i></i> 📦</br>
+🚀 <i></i> 🤖🕹️
+
+## Languages and Tools 🛠️
 
 <div align=center>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorworld2000&layout=compact&hide=javascript,html,css&exclude_repo=repo1,repo2&size_weight=0.5&count_weight=0.5)
 
 </div>
-<div align=center>
 
-![](https://komarev.com/ghpvc/?username=errorworld2000&abbreviated=true&label=PROFILE+VIEWS&color=dc143c&base=1)
-![Static Badge](https://img.shields.io/badge/i_am-atomic-FF1744)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Derrorworld2000&query=%24.data.totalSubs&logo=github)
 
-</div>
+## End 🙌
