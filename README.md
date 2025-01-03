@@ -30,13 +30,13 @@
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorworld2000&layout=compact&hide=javascript,html,css&exclude_repo=repo1,repo2&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorworld2000&layout=compact&hide=javascript,html,css&exclude_repo=repo1,repo2&size_weight=0.5)
 
 </div>
 
 ## Repos 👾
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorworld2000&repo=leveldb-copy)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorworld2000&repo=ml-j)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorworld2000&repo=leveldb-copy)](https://github.com/errorworld2000/leveldb-copy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorworld2000&repo=ml-j)](https://github.com/errorworld2000/ml-j)
 
 ## End 🙌
