@@ -33,13 +33,4 @@
 
 </div>
 
-## Repos 👾
-
-<div align=center>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorworld2000&repo=leveldb-copy)](https://github.com/errorworld2000/leveldb-copy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorworld2000&repo=ml-j)](https://github.com/errorworld2000/ml-j)
-
-</div>
-
 <h2 align="center">End 🙌</h2>
